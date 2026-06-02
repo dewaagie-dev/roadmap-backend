@@ -1,0 +1,6 @@
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: 'Outfit', sans-serif; background: #f5f0e8; color: #1a1410; }
+button { font-family: inherit; cursor: pointer; }
+textarea { font-family: 'JetBrains Mono', monospace; }
+::-webkit-scrollbar { width: 5px; }
+::-webkit-scrollbar-thumb { background: #d8d0c4; border-radius: 3px; }
