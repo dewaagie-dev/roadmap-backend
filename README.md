@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# roadmap-backend
-My personal 180-day journey from junior dev to landing a remote backend job — Node.js · Python · Docker · AWS. Track progress, goals &amp; exercises daily. Stack: Next.js 14 · TypeScript · Turso (LibSQL) · Drizzle ORM · Vercel.
-=======
 # 🌴 Backend Remote Job Roadmap — Junior to Senior
 
 <div align="center">
@@ -265,4 +261,3 @@ MIT — free to use, fork, and adapt for your own learning journey.
 Built with ❤️ from **Batubulan Gianyar, Bali** 🌴 · Junior → Senior · Aiming for **Remote** 🌏
 
 </div>
->>>>>>> master
