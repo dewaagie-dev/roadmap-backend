@@ -1,8 +1,8 @@
-# 🌴 Backend Remote Job Roadmap
+# 🌴 Backend Remote Job Roadmap — Junior to Senior
 
 <div align="center">
 
-**A 180-day, day-by-day interactive roadmap to land your first remote backend developer job.**
+**A 365-day, day-by-day interactive roadmap from Junior to Senior Backend Engineer.**
 
 [![Next.js](https://img.shields.io/badge/Next.js-14-black?style=flat-square&logo=next.js)](https://nextjs.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://typescriptlang.org)
@@ -17,10 +17,11 @@
 
 ## 📖 About
 
-This is my personal learning tracker built to keep myself accountable on the journey from **Junior Backend Developer** → **Remote Job**. Instead of a static checklist, I wanted something that:
+This is my personal learning tracker built to keep myself accountable on the journey from **Junior Backend Developer** → **Senior Backend Engineer**. Instead of a static checklist, I wanted something that:
 
-- Breaks the 180-day journey into **clear daily tasks**
+- Breaks the 365-day journey into **clear daily tasks** across 9 phases
 - Gives a specific **goal** and **4 hands-on exercises** for each day
+- Covers **foundation → core backend → projects → job hunting → distributed systems → senior practices → leadership**
 - Saves my **progress and notes** to a real database (not just localStorage)
 - Looks good enough that I actually want to open it every day
 
@@ -38,11 +39,11 @@ Built with **Next.js 14**, **Turso (SQLite at the edge)**, and deployed for free
 | 📝 **Notes per Day** | Write what you learned, links, blockers — saved to Turso SQLite |
 | 📊 **Progress Dashboard** | Overall %, streak counter, per-phase progress bars |
 | 🔒 **Persistent Storage** | Works across devices and browser sessions via real database |
-| 🗂️ **Phase Navigation** | Jump between the 5 phases with sticky nav tabs |
+| 🗂️ **Phase Navigation** | Jump between the 9 phases with sticky nav tabs |
 
 ---
 
-## 🗺️ The 5-Phase Roadmap
+## 🗺️ The 9-Phase Roadmap
 
 ```
 Phase 1 (Days 1–30)    → Foundation & Environment Setup
@@ -50,6 +51,10 @@ Phase 2 (Days 31–75)   → Core Backend Engineering
 Phase 3 (Days 76–120)  → Build 2 Production-Grade Projects
 Phase 4 (Days 121–160) → Profile Build & First Applications
 Phase 5 (Days 161–180) → Interviews, Offers & Negotiation
+Phase 6 (Days 181–225) → Advanced Architecture & Distributed Systems
+Phase 7 (Days 226–285) → Senior Engineering Practices
+Phase 8 (Days 286–335) → Build 2 Senior-Level Projects
+Phase 9 (Days 336–365) → Leadership, Mentoring & Career Growth
 ```
 
 ---
@@ -253,6 +258,6 @@ MIT — free to use, fork, and adapt for your own learning journey.
 
 <div align="center">
 
-Built with ❤️ from **Batubulan Gianyar, Bali** 🌴 · Aiming for **Remote** 🌏
+Built with ❤️ from **Batubulan Gianyar, Bali** 🌴 · Junior → Senior · Aiming for **Remote** 🌏
 
 </div>
