@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Backend Remote Job Roadmap",
-  description: "180-day plan to land your first remote backend developer job",
+  title: "Backend Remote Job Roadmap — Junior to Senior",
+  description: "365-day plan to grow from Junior to Senior Backend Engineer with daily goals, exercises, and progress tracking",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
