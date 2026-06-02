@@ -1208,7 +1208,7 @@ export default function RoadmapClient() {
         ))}
 
         <div style={{borderTop:"2px solid #1a1410",paddingTop:24,marginTop:48,display:"flex",justifyContent:"space-between",alignItems:"center",flexWrap:"wrap",gap:10}}>
-          <div style={{fontFamily:"monospace",fontSize:11,color:"#8a7d6e"}}>Built for: Junior → Senior Backend Dev · Ubud, Bali 🌴 · 365-day plan</div>
+          <div style={{fontFamily:"monospace",fontSize:11,color:"#8a7d6e"}}>Built for: Junior → Senior Backend Dev · Ubud, Bali 🌴 · {total}-day plan</div>
           <div style={{fontFamily:"monospace",fontSize:12,color:"#2a6b4a",fontWeight:600}}>{doneCount} / {total} days completed</div>
         </div>
       </div>
